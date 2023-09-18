@@ -1,0 +1,24 @@
+.wraper{
+    width: 330px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.input {
+    background-color: #fff;
+    width: 250px;
+    height: 50px;
+    border-radius: 30px;
+    padding-left: 1rem;
+    margin-right: .75rem;
+    border: 0 none;
+    box-shadow: 4px 4px 10px #66666638;
+    cursor: pointer;
+    outline: none;
+}
+.icon {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}

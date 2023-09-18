@@ -1,0 +1,11 @@
+.mainMenur{
+    padding: 2rem;
+    width: fit-content;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 2rem;
+    background-color: #f6f6f6;
+    border-radius: 20px;
+    box-shadow: 4px 4px 10px #66666638;
+}
